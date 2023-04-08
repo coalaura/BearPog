@@ -1,5 +1,5 @@
 ## Bear Pog
-![woah](.github/bear_pog.png)
+![woah](.github/9_11_dentists.png)
 
 This is the best most epic reshade shader out there.
 
