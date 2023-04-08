@@ -8,7 +8,7 @@ This is the best most epic reshade shader out there.
 1. Simply download the [BearPog.fx](BearPog.fx) file and place it in your Reshade Shaders folder
 2. Yeah thats it mate
 
-Btw, check out my other shaders [here](https://github.com/coalaura/shaders)!
+Btw, check out my other shaders [here](https://sh.coalaura.org/)!
 
 ### Usage
 
